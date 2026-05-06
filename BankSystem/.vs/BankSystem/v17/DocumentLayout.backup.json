@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\For My Programming\\.vscoomunity\\MyProject #18 (Bank System)\\BankSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE26CB7-FA14-44AA-A4A5-88BDE23C14D9}|..\\DataLayer\\DataLayer.csproj|c:\\users\\lenovo\\documents\\for my programming\\.vscoomunity\\myproject #18 (bank system)\\datalayer\\persons\\clsdataclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE26CB7-FA14-44AA-A4A5-88BDE23C14D9}|..\\DataLayer\\DataLayer.csproj|c:\\users\\lenovo\\documents\\for my programming\\.vscoomunity\\myproject #18 (bank system)\\datalayer\\clsdataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsDataClients.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\For My Programming\\.vscoomunity\\MyProject #18 (Bank System)\\DataLayer\\Persons\\clsDataClients.cs",
+              "RelativeDocumentMoniker": "..\\DataLayer\\Persons\\clsDataClients.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\For My Programming\\.vscoomunity\\MyProject #18 (Bank System)\\DataLayer\\Persons\\clsDataClients.cs",
+              "RelativeToolTip": "..\\DataLayer\\Persons\\clsDataClients.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:48:53.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\For My Programming\\.vscoomunity\\MyProject #18 (Bank System)\\DataLayer\\clsDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "..\\DataLayer\\clsDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\For My Programming\\.vscoomunity\\MyProject #18 (Bank System)\\DataLayer\\clsDataAccessLayer.cs",
+              "RelativeToolTip": "..\\DataLayer\\clsDataAccessLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:33:03.901Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
